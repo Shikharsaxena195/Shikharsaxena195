@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on Data Analysis and Data Visualization to deliver Data-driven insights and effective Analytical solutions to help business decisions
-- 🌱 I’m obsessed with SQL, Python, Data Analytics, Statistics, Plotly, Databases, Probelm-solving, Data Visualization, Power BI, Tableau, Alteryx, MS Excel, ThoughtSpot, Azure, AWS.
+- 🌱 I’m obsessed with SQL, Python, Data Analytics, Statistics, Plotly, Databases, Probelm-solving, Data Visualization, Power BI, DAX, Tableau, Alteryx, MS Excel, Data Studio, Google Big Query, Azure, AWS.
 - 👯 I’m looking to collaborate on great opportunities in Data Analytics, Business Intelligence that brings the development and implementation of effective solutions.
 - 💬 Ask me about SQL Queries, anything related to Analytics
 - 📫 How to reach me:
